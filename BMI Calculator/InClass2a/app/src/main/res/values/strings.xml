@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">In Class 2a</string>
+    <string name="action_settings">Settings</string>
+    <string name="bmi_calculator_label">Body Mass Index (BMI)</string>
+    <string name="weight_label">Weight</string>
+    <string name="feet_label">feet</string>
+    <string name="inches_label" />
+    <string name="button_calculate_bmi">Calculate BMI</string>
+    <string name="bmi_result_label"></string>
+    <string name="lb_label">lb</string>
+    <string name="weight_hint">Enter weight Ex: 120</string>
+    <string name="weight_value" />
+    <string name="height_feet_hint">Enter height in feet</string>
+    <string name="height_feet_value" />
+    <string name="height_inch_label">inches</string>
+    <string name="height_inches_hint">Enter height in inches</string>
+    <string name="height_inch_value" />
+    <string name="height_label">Height</string>
+    <string name="main_result_label" />
+    <string name="result_bmi"></string>
+    <string name="result_main"></string>
+
+</resources>

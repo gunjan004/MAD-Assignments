@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HW04</string>
+    <string name="thread">For Thread:</string>
+    <string name="asy">For AsyncTask:</string>
+    <string name="Generate">Generate</string>
+    <string name="displaytc" />
+    <string name="display" />
+    <string name="displaysdd" />
+    <string name="displayssds" />
+    <!--<string name="label_thread">Passwords generated using Thread:</string>
+    <string name="textView_thread_password" />
+    <string name="textView_async" />-->
+    <string name="title_activity_generatedp">Generatedp</string>
+    <string name="action_settings">Settings</string>
+    <string name="thread_password">Password generated using thread:</string>
+    <string name="password_async">Password generated using async:</string>
+    <string name="button_finish">Finish</string>
+    <string name="textView_thread" />
+    <string name="textView_async" />
+</resources>

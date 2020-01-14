@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1021900528423",
+    "firebase_url": "https://inclass09-a975e.firebaseio.com",
+    "project_id": "inclass09-a975e",
+    "storage_bucket": "inclass09-a975e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021900528423:android:c7f4ec04624851c9",
+        "android_client_info": {
+          "package_name": "com.example.inclass09"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWSffivK-x6Fvu4a7Uvzw3gwqiSo9kiQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021900528423-tov541ps766bl1c4t1srp74hgpnd1mtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

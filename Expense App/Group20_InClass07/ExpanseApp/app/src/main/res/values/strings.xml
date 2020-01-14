@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Expanse App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lbl_Current_Expenses">Current Expenses: </string>
+    <string name="btn_Add">Add</string>
+    <string name="lbl_No_Expense_Msg">There is no expense to show</string>
+    <string name="AddExpenseLabel">Add an Expense</string>
+    <string name="ExpenseNameLabel">Expense Name:</string>
+    <string name="AddExpenseET" />
+    <string name="AddExpenseHint">Expense Name</string>
+    <string name="CategoryLabel">Category:</string>
+    <string name="AmountLabel">Amount:</string>
+    <string name="AddAmount" />
+    <string name="AmountHint">Enter Amount</string>
+    <string name="AddExpenseButton">Add Expense</string>
+    <string name="CancelButton">Cancel</string>
+    <string name="ItemDisplay">Item List</string>
+    <string name="lbl_Price">Price</string>
+    <string name="ShowExpenseLabel">Expense Details</string>
+    <string name="ExpenseNameShowLabel">Name:</string>
+    <string name="ExpenseNameShow" />
+    <string name="CategoryShow">Category:</string>
+    <string name="CategoryShowData" />
+    <string name="AmountShowLabel">Amount:</string>
+    <string name="DateShowLabel">Date:</string>
+    <string name="AmountShow" />
+    <string name="ExpenseDateShow" />
+    <string name="ButtonClose">Close</string>
+</resources>

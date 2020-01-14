@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Group5_HW4</string>
+    <string name="Title">Title :</string>
+    <string name="actualTitle" />
+    <string name="ingredientsTitle">Ingredients :</string>
+    <string name="ingredientsValue" />
+    <string name="urlTitle">URL :</string>
+    <string name="urlValue" />
+    <string name="finishButton">Finish</string>
+    <string name="textViewDish">Dish:</string>
+    <string name="searcheditText">Search</string>
+    <string name="textViewAddIngredients">Add Ingredients:</string>
+    <string name="searchButton">Search</string>
+    <string name="Placeholder">Placeholder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading_textView">Loading...</string>
+</resources>

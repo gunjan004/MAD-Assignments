@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728285595000",
+    "firebase_url": "https://inclass12tripplanner.firebaseio.com",
+    "project_id": "inclass12tripplanner",
+    "storage_bucket": "inclass12tripplanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728285595000:android:8d699a50c7411356",
+        "android_client_info": {
+          "package_name": "com.example.inclass12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728285595000-ut95o6b60lg9spdjg8aa6qu43gmhevij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inclass12",
+            "certificate_hash": "7701edd3d58fe80505c9c6aef21ba366665562b7"
+          }
+        },
+        {
+          "client_id": "728285595000-02be3l0s2j4nn7tuv6nl2rorccgpsf3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu9ZxoKVXZc9gpm4TSblslDwPpDjFnfE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728285595000-02be3l0s2j4nn7tuv6nl2rorccgpsf3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
